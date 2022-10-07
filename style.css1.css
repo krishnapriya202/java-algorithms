@@ -1,0 +1,23 @@
+.class{
+    /* color: rgb(236, 79, 11); */
+    /* color: #ffffff;  */
+     /* color:hsl(98,%69,%59) ; */ 
+
+}
+body{
+    background-color: aqua;
+    background-image:url(../'bg.jb') ;
+    background-position:no repeat;
+    bakcground-attachment:right top;
+}
+<div>
+<div class="class">i am a skyblue div</div>
+<div class="class">i am a skyblue div</div>
+<div class="class">i am a skyblue div</div>
+<div class="class">i am a skyblue div</div>
+<div class="class">i am a skyblue div</div>
+<div class="class">i am a skyblue div</div>
+video<div class="class">i am a skyblue div</div>
+<div class="class">i am a skyblue div</div>
+<div class="class">i am a skyblue div</div>
+<div class="class">i am a skyblue div</div>
